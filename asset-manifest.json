@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c3a4f1ba.css",
+    "main.js": "/static/js/main.ce6ae364.js",
+    "static/js/731.850c813e.chunk.js": "/static/js/731.850c813e.chunk.js",
+    "static/js/302.bb21e2f6.chunk.js": "/static/js/302.bb21e2f6.chunk.js",
+    "static/media/Inter-Medium.ttf": "/static/media/Inter-Medium.6dcbc9bed1ec438907ee.ttf",
+    "static/media/Bg.png": "/static/media/Bg.8cb35506b733661a85b8.png",
+    "static/media/YekanBakh-ExtraBlack.ttf": "/static/media/YekanBakh-ExtraBlack.7508a943ac1ac0fc2af7.ttf",
+    "static/media/YekanBakh-Black.ttf": "/static/media/YekanBakh-Black.a346399c6ab1957ab0c7.ttf",
+    "static/media/YekanBakh-ExtraBold.ttf": "/static/media/YekanBakh-ExtraBold.c59e76562460297fc7d6.ttf",
+    "static/media/YekanBakh-Bold.ttf": "/static/media/YekanBakh-Bold.bd4104b9f8dd8d329e48.ttf",
+    "static/media/YekanBakh-Regular.ttf": "/static/media/YekanBakh-Regular.91faa48304b54bdddfc3.ttf",
+    "static/media/YekanBakh-SemiBold.ttf": "/static/media/YekanBakh-SemiBold.ef1d8d407efde84654a9.ttf",
+    "static/media/YekanBakh-Light.ttf": "/static/media/YekanBakh-Light.6efb1d6cc2a63965d4dd.ttf",
+    "static/media/YekanBakh-Thin.ttf": "/static/media/YekanBakh-Thin.217e692a56254188a64c.ttf",
+    "index.html": "/index.html",
+    "main.c3a4f1ba.css.map": "/static/css/main.c3a4f1ba.css.map",
+    "main.ce6ae364.js.map": "/static/js/main.ce6ae364.js.map",
+    "731.850c813e.chunk.js.map": "/static/js/731.850c813e.chunk.js.map",
+    "302.bb21e2f6.chunk.js.map": "/static/js/302.bb21e2f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3a4f1ba.css",
+    "static/js/main.ce6ae364.js"
+  ]
+}
