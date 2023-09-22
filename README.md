@@ -1,4 +1,4 @@
-<h1 align="center">1Dex swap</h1>
+<h1 align="center">1Dex swap front-end</h1>
 
 ###
 
